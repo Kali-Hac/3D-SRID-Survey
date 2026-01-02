@@ -8,9 +8,6 @@ It is collected and organized based on the *first comprehensive SRID survey*:
 [A Survey on 3D Skeleton Based Person Re-Identification: Taxonomy, Advances, Challenges, and Interdisciplinary Prospects](./) <br>
 By Haocong Rao and Chunyan Miao.
 
-We will continuously update it with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request. For more papers and resources on Skeleton-Based Models (Action Recognition, Pose Estimation, etc.) from top-tier AI conferences and journals, kindly refer to [this repository](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
-
-
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Overview of SRID Task**](#Overview-of-SRID-Task)
@@ -260,6 +257,11 @@ We will continuously update it with the latest resources. Should you find any mi
 ### Before 2014
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (_ECCV Workshop 2012_)
 
+<br>
+
+We will continuously update it with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request. 
+
+For more papers and resources on Skeleton-Based Models (Action Recognition, Pose Estimation, etc.) from top-tier AI conferences and journals, kindly refer to [this repository](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
 ## Citation
 If you found this paper/repository useful, please consider citing:
