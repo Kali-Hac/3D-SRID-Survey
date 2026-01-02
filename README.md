@@ -19,7 +19,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 - [**Overview of SRID Task**](#Overview-of-SRID-Task)
 - [**Taxonomy of SRID Research**](#Taxonomy-of-SRID-Research)
 - [**Overview of Milestones in SRID**](#Overview-of-Milestones-in-SRID)
-- [**Performance & Efficiency Comparison of State-of-the-Art Models**](#Performance-\\&-Efficiency-Comparison-of-State-of-the-Art-Models)
+- [**Performance and Efficiency Comparison of State-of-the-Art Models**](#Performance-and-Efficiency-Comparison-of-State-of-the-Art-Models)
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Categories**](#Studies-by-Different-Categories)
 	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
@@ -59,12 +59,10 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/SRID-Timeline.jpg)
 
 
-## Performance & Efficiency Comparison of State-of-the-Art Models
+## Performance and Efficiency Comparison of State-of-the-Art Models
 **Parameter sizes (Millions), computational complexity (Giga Floating Point Operations (GFLOPs)), and KS20 Rank-1 accuracy of state-of-the-art deep learning based methods for SRID (Red: Sequence-based models; Green: Graph-based models).**
 
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/model_comparison_fig.jpg)
-
-
 
 
 <!-- vscode-markdown-toc-config
