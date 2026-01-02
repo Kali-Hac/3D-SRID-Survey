@@ -79,11 +79,21 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Method_property_comparison.jpg)
 
 ### Hand-Crafted Modeling
-- [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
 
-- [3D reconstruction of freely moving persons for re-identification with a depth sensor](https://doi.org/10.24963/ijcai.2020/125) (_ICRA 2014_)
+- [Re-visiting k-Reciprocal Distance Re-ranking for Skeleton-Based Person Re-identification](https://ieeexplore.ieee.org/document/9913633) (_IEEE Signal Processing Letters 2022_)
 
-- [A feature-based approach to people re-identification using skeleton keypoints](https://www.researchgate.net/profile/Matteo-Munaro/publication/286624461_A_feature-based_approach_To_people_re-identification_using_skeleton_keypoints/links/566ea2f008ae1a797e406d8a/A-feature-based-approach-To-people-re-identification-using-skeleton-keypoints.pdf) (_ICRA 2014_)
+- [Person Re-Identification from Different Views based on Dynamic Linear Combination of Distances](https://lilloa.univ-lille.fr/bitstream/handle/20.500.12210/57071/https:/halshs.archives-ouvertes.fr/halshs-03145152/document?sequence=1) (_Multimedia Tools and Applications 2021_) [[Github](https://github.com/Elaoud/re-id)] ![](https://img.shields.io/github/stars/Elaoud/re-id.svg?style=social)
+
+- [Enhanced skeleton and face 3D data for person re-identification from depth cameras](https://doi.org/10.24963/ijcai.2020/125) (_Computers \& Graphics 2019_)
+
+- [Cross-context analysis for long-term view-point invariant person re-identification via soft-biometrics using depth sensor](https://www.scitepress.org/papers/2018/66206/66206.pdf) (_VISIGRAPP 2018_)
+
+- [Analysis of skeletal shape trajectories for person re-identifications]([https://vislab.isr.tecnico.ulisboa.pt/wp-content/uploads/2017/05/anambiar_BWild2017.pdf](https://link.springer.com/chapter/10.1007/978-3-319-70353-4_12)) (_International Conference on Advanced Concepts for Intelligent Vision Systems 2017_)
+
+- [Human identification from freestyle walks using posture-based gait feature](https://ieeexplore.ieee.org/abstract/document/8007293) (_IEEE Transactions on Information Forensics and Security 2017_)
+
+- [Long term person re-identification from depth cameras using facial and skeleton data](https://www.researchgate.net/profile/Stefano-Berretti/publication/325161671_Long_Term_Person_Re-identification_from_Depth_Cameras_Using_Facial_and_Skeleton_Data/links/5b84ffc892851c1e1236dd11/Long-Term-Person-Re-identification-from-Depth-Cameras-Using-Facial-and-Skeleton-Data.pdf) (_ICPR 2016_)
+
 
 - [People re-identification using 3D descriptor with skeleton information](https://ieeexplore.ieee.org/abstract/document/7333986) (_International Conference on Informatics, Electronics \& Vision 2015_)
 
@@ -91,19 +101,11 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 - [Person Identification Using Anthropometric and Gait Data from Kinect Sensor](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9680) (_AAAI 2015_)
 
-- [Long term person re-identification from depth cameras using facial and skeleton data](https://www.researchgate.net/profile/Stefano-Berretti/publication/325161671_Long_Term_Person_Re-identification_from_Depth_Cameras_Using_Facial_and_Skeleton_Data/links/5b84ffc892851c1e1236dd11/Long-Term-Person-Re-identification-from-Depth-Cameras-Using-Facial-and-Skeleton-Data.pdf) (_ICPR 2016_)
+- [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
 
-- [Human identification from freestyle walks using posture-based gait feature](https://ieeexplore.ieee.org/abstract/document/8007293) (_IEEE Transactions on Information Forensics and Security 2017_)
+- [3D reconstruction of freely moving persons for re-identification with a depth sensor](https://doi.org/10.24963/ijcai.2020/125) (_ICRA 2014_)
 
-- [Context-aware person re-identification in the wild via fusion of gait and anthropometric features](https://vislab.isr.tecnico.ulisboa.pt/wp-content/uploads/2017/05/anambiar_BWild2017.pdf) (_International Conference on Automatic Face \& Gesture Recognition 2017_)
-
-- [Cross-context analysis for long-term view-point invariant person re-identification via soft-biometrics using depth sensor](https://www.scitepress.org/papers/2018/66206/66206.pdf) (_VISIGRAPP 2018_)
-
-- [Enhanced skeleton and face 3D data for person re-identification from depth cameras](https://doi.org/10.24963/ijcai.2020/125) (_Computers\&Graphics 2019_)
-
-- [Person Re-Identification from Different Views based on Dynamic Linear Combination of Distances](https://lilloa.univ-lille.fr/bitstream/handle/20.500.12210/57071/https:/halshs.archives-ouvertes.fr/halshs-03145152/document?sequence=1) (_Multimedia Tools and Applications 2021_) [[Github](https://github.com/Elaoud/re-id)] ![](https://img.shields.io/github/stars/Elaoud/re-id.svg?style=social)
-
-- [Re-visiting k-Reciprocal Distance Re-ranking for Skeleton-Based Person Re-identification](https://ieeexplore.ieee.org/document/9913633) (_IEEE Signal Processing Letters 2022_)
+- [A feature-based approach to people re-identification using skeleton keypoints](https://www.researchgate.net/profile/Matteo-Munaro/publication/286624461_A_feature-based_approach_To_people_re-identification_using_skeleton_keypoints/links/566ea2f008ae1a797e406d8a/A-feature-based-approach-To-people-re-identification-using-skeleton-keypoints.pdf) (_ICRA 2014_)
 
 
 ### Sequence-Based Modeling
