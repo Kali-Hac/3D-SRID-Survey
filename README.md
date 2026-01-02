@@ -15,9 +15,8 @@ For more papers and resources on Skeleton-Based Models (Action Recognition, Pose
 By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh-CN&oi=ao) and [Chunyan Miao](https://scholar.google.com.sg/citations?user=fmXGRJgAAAAJ&hl=zh-CN).
 
 ## Overview of SRID Task
-```
-Overview of 3D skeleton based person re-ID (SRID) task with hand-crafted, sequence-based or graph-based modeling to learn effective body and motion features for identity recognition.
-```
+**Overview of 3D skeleton based person re-ID (SRID) task with hand-crafted, sequence-based or graph-based modeling to learn effective body and motion features for identity recognition.**
+
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Overview_task.jpg)
 
 
