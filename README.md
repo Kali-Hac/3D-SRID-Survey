@@ -14,6 +14,34 @@ For more papers and resources on Skeleton-Based Models (Action Recognition, Pose
 
 By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh-CN&oi=ao) and [Chunyan Miao](https://scholar.google.com.sg/citations?user=fmXGRJgAAAAJ&hl=zh-CN).
 
+## Archives and Resources
+<!-- vscode-markdown-toc -->
+- [**Overview of SRID Task**](#Overview-of-SRID-Task)
+- [**Taxonomy of SRID Research**](#Taxonomy-of-SRID-Research)
+- [**Overview of Milestones in SRID**](#Overview-of-Milestones-in-SRID)
+- [**Performance & Efficiency Comparison of State-of-the-Art Models**](#Performance-&-Efficiency-Comparison-of-State-of-the-Art-Models)
+- [**Benchmark Datasets**](#benchmark-datasets)
+- [**Studies by Different Categories**](#Studies-by-Different-Categories)
+	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
+	- [**Sequence Based Modeling**](#Sequence-Based-Modeling)
+	- [**Graph Based Modeling**](#Graph-Based-Modeling)
+- [**Studies by Different Years**](#Studies-by-Different-Years)
+	- [**2025**](#2025)
+	- [**2024**](#2024)
+	- [**2023**](#2023)
+	- [**2022**](#2022)
+	- [**2021**](#2021)
+	- [**2020**](#2020)
+	- [**2019**](#2019)
+	- [**2018**](#2018)
+	- [**2017**](#2017)
+	- [**2016**](#2016)
+	- [**2015**](#2015)
+	- [**2014**](#2014)
+	- [**Before 2014**](#before-2014)
+- [**Leaderboard**](#leaderboard)
+
+
 ## Overview of SRID Task
 **Overview of 3D skeleton based person re-ID (SRID) task with hand-crafted, sequence-based or graph-based modeling to learn effective body and motion features for identity recognition.**
 
@@ -37,28 +65,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/model_comparison_fig.jpg)
 
 
-## Archives and Resources
-<!-- vscode-markdown-toc -->
-- [**Benchmark Datasets**](#benchmark-datasets)
-- [**Studies by Different Categories**](#Studies-by-Different-Categories)
-	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
-	- [**Sequence Based Modeling**](#Sequence-Based-Modeling)
-	- [**Graph Based Modeling**](#Graph-Based-Modeling)
-- [**Studies by Different Years**](#Studies-by-Different-Years)
-	- [**2025**](#2025)
-	- [**2024**](#2024)
-	- [**2023**](#2023)
-	- [**2022**](#2022)
-	- [**2021**](#2021)
-	- [**2020**](#2020)
-	- [**2019**](#2019)
-	- [**2018**](#2018)
-	- [**2017**](#2017)
-	- [**2016**](#2016)
-	- [**2015**](#2015)
-	- [**2014**](#2014)
-	- [**Before 2014**](#before-2014)
-- [**Leaderboard**](#leaderboard)
+
 
 <!-- vscode-markdown-toc-config
 	numbering=true
