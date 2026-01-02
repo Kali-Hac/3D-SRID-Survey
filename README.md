@@ -74,9 +74,9 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 
 ### **Studies by Different Categories**
-**Performance and characteristics comparison of existing hand-crafted, sequence-based, and graph-based methods on different benchmark datasets (BIWI (S/W), IAS-Lab (A/B), KS20). Representative gait recognition methods using skeleton data are also compared following the same person re-ID evaluation protocol. We report the parameter sizes (Million) and summarize their properties.**
+**Property comparison of existing hand-crafted, sequence-based, and graph-based methods. Representative gait recognition methods using skeleton data are also compared. We report the parameter sizes (Million) and summarize their properties.**
 
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/method_overview.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Method_property_comparison.jpg)
 
 #### Hand-Crafted Modeling
 - [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
