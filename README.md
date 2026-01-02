@@ -15,19 +15,18 @@ For more papers and resources on Skeleton-Based Models (Action Recognition, Pose
 By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh-CN&oi=ao) and [Chunyan Miao](https://scholar.google.com.sg/citations?user=fmXGRJgAAAAJ&hl=zh-CN).
 
 ## Overview of SRID Task
-![image](https://github.com/Kali-Hac/SRID/blob/main/overview/Overview_task.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Overview_task.jpg)
 
 ## Taxonomy of SRID Research
-![image](https://github.com/Kali-Hac/SRID/blob/main/overview/taxonomy_overview.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/taxonomy_overview.jpg)
 
 ## Overview of Milestones in SRID
-![image](https://github.com/Kali-Hac/SRID/blob/main/overview/SRID-Timeline.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/SRID-Timeline.jpg)
 
 
 ## Comparison of State-of-the-Art Models and SSL
-![image](https://github.com/Kali-Hac/SRID/blob/main/overview/model_comparison_fig.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/model_comparison_fig.jpg)
 
-![image](https://github.com/Kali-Hac/SRID/blob/main/overview/SSL.jpeg)
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
@@ -66,26 +65,12 @@ The estimated number of skeletons in the training set is reported.
 Both sensor-based datasets (Kinect V1/2) and RGB-estimated datasets with 3D skeleton data are included.
 We also include 2D skeleton based datasets that could be converted into 3D datasets for evaluation.
 
-|**# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
-|-------------------|:--------:|-----------------------------|:--------:|---------------:|:----------:|
-| PAVIS RGBD-ID     |   2012   | Kinect V1                   |    79    |              — |     Ego    |
-| BIWI RGBD-ID      |   2013   | Kinect V1                   |    50    |         205.8K |     Ego    |
-| IAS-Lab RGBD-ID   |   2013   | Kinect V1                   |    11    |          89.0K |     Ego    |
-| KGBD              |   2014   | Kinect V1                   |    164   |         188.7K |     Ego    |
-| KinectREID        |   2015   | Kinect V1                   |    71    |           4.8K |      7     |
-| UPCV1             |   2015   | Kinect V1                   |    30    |          13.1K |     Ego    |
-| UPCV2             |   2016   | Kinect V2                   |    30    |          26.3K |     Ego    |
-| Florence 3D Re-ID |   2016   | Kinect V2                   |    16    |          18.0K |     Ego    |
-| KS20              |   2017   | Kinect V2                   |    20    |          36.0K |      5     |
-| Freestyle Walks   |   2017   | Kinect V2                   |    90    |              — |     Ego    |
-| CAISA-B-3D        |   2020   | _Estimated from RGB videos_ |    124   |         706.5K |     11     |
-| OUMVLP-Pose-2D    |   2020   | _Estimated from RGB videos_ |   10307  |        6667.0K |     14     |
-| PoseTrackReID-2D  |   2020   | _Estimated from RGB videos_ |   5350   |          53.6K |      —     |
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Dataset_Overview.jpeg)
 
 
 ### **Studies by Different Categories**
 
-![image](https://github.com/Kali-Hac/SRID/blob/main/overview/method_overview.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/method_overview.jpg)
 
 #### Hand-Crafted Modeling
 - [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
