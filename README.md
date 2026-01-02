@@ -88,7 +88,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 - [Cross-context analysis for long-term view-point invariant person re-identification via soft-biometrics using depth sensor](https://www.scitepress.org/papers/2018/66206/66206.pdf) (_VISIGRAPP 2018_)
 
-- [Analysis of skeletal shape trajectories for person re-identifications]([https://vislab.isr.tecnico.ulisboa.pt/wp-content/uploads/2017/05/anambiar_BWild2017.pdf](https://link.springer.com/chapter/10.1007/978-3-319-70353-4_12)) (_International Conference on Advanced Concepts for Intelligent Vision Systems 2017_)
+- [Analysis of skeletal shape trajectories for person re-identifications](https://link.springer.com/chapter/10.1007/978-3-319-70353-4_12) (_International Conference on Advanced Concepts for Intelligent Vision Systems 2017_)
 
 - [Human identification from freestyle walks using posture-based gait feature](https://ieeexplore.ieee.org/abstract/document/8007293) (_IEEE Transactions on Information Forensics and Security 2017_)
 
