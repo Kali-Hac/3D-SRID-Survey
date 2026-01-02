@@ -17,7 +17,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Overview of SRID Task**](#Overview-of-SRID-Task)
-- [**Origin and Advancements of SRID Research**](#Overview-of-Milestones-in-SRID)
+- [**Origin and Advancements of SRID Research**](#Origin-and-Advancements-of-SRID-Research)
 - [**Taxonomy of SRID Research**](#Taxonomy-of-SRID-Research)
 - [**Performance and Efficiency Comparison of State-of-the-Art Models**](#Performance-and-Efficiency-Comparison-of-State-of-the-Art-Models)
 - [**Benchmark Datasets**](#benchmark-datasets)
