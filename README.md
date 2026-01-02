@@ -269,9 +269,11 @@ If you found this paper/repository useful, please consider citing:
 }
 ```
 
-## License and Update
+## License
 
 3D-SRID-Survey is released under the MIT License. 
+
+## Update
 
 We will continuously update it with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request. 
 
