@@ -21,13 +21,19 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 
 ## Taxonomy of SRID Research
+**Structure of this survey with the taxonomy of SRID research. Representative branches and SRID methods are listed.**
+
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/taxonomy_overview.jpg)
 
 ## Overview of Milestones in SRID
+**Overview of research origin and technical advancements of SRID within the person re-ID community (Zoom in and follow the timeline for the best view).**
+
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/SRID-Timeline.jpg)
 
 
-## Comparison of State-of-the-Art Models and SSL
+## Performance & Efficiency Comparison of State-of-the-Art Models
+**Parameter sizes (Millions), computational complexity (Giga Floating Point Operations (GFLOPs)), and KS20 Rank-1 accuracy of state-of-the-art deep learning based methods for SRID (Red: Sequence-based models; Green: Graph-based models).**
+
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/model_comparison_fig.jpg)
 
 
@@ -62,11 +68,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 
 ### **Benchmark Datasets**
-Overview of existing benchmark datasets for **3D skeleton-based person re-identification** and their statistics. 
-The estimated number of skeletons in the training set is reported. 
-“Ego” denotes a single or egocentric view. 
-Both sensor-based datasets (Kinect V1/2) and RGB-estimated datasets with 3D skeleton data are included.
-We also include 2D skeleton based datasets that could be converted into 3D datasets for evaluation.
+**Overview of SRID benchmark datasets. The number of skeletons in training is reported. “S” denotes single or egocentric view. \textit{RGB-estimated} 3D and 2D skeleton datasets are listed. $^{\star}$ denotes an interdisciplinary benchmark for gait and disease prediction.**
 
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Dataset_Overview.jpeg)
 
@@ -214,8 +216,14 @@ We also include 2D skeleton based datasets that could be converted into 3D datas
 
 
 ###  **Leaderboard**
+**Performance (R$_{1}$) and characteristics comparison of existing hand-crafted, sequence-based, and graph-based methods on different benchmark datasets (BIWI (S/W), IAS-Lab (A/B), KS20). Representative gait recognition methods using skeleton data are also compared following the same person re-ID evaluation protocol.**
+
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Leaderboard.jpg)
 
+### **Prospects**
+**Interdisciplinary application landscape of SRID across three primary domains: healthcare ({green box}), embodied AI ({yellow box}), and security ({purple box}). Please zoom in for better view.**
+
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/Prospects/Leaderboard.jpg)
 
 ## Citation
 If you found this paper/repository useful, please consider citing:
