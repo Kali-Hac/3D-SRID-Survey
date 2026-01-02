@@ -155,7 +155,7 @@ By Haocong Rao and Chunyan Miao.
 
 
 ### Graph-Based Modeling
-- [SkeletonGait: Gait recognition using skeleton maps](https://ojs.aaai.org/index.php/AAAI/article/download/27933/27887) (_AAAI 2024_) [[Github](https://github.com/ShiqiYu/OpenGait)] ![](https://img.shields.io/github/stars/ShiqiYu/OpenGai.svg?style=social)
+- [SkeletonGait: Gait recognition using skeleton maps](https://ojs.aaai.org/index.php/AAAI/article/download/27933/27887) (_AAAI 2024_) [[Github](https://github.com/ShiqiYu/OpenGait)] ![](https://img.shields.io/github/stars/ShiqiYu/OpenGait.svg?style=social)
 
 - [TranSG: Transformer-based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-identification](http://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf) (_CVPR 2023_) [[Github](https://github.com/Kali-Hac/TranSG)] ![](https://img.shields.io/github/stars/Kali-Hac/TranSG.svg?style=social)
 
