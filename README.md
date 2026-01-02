@@ -3,7 +3,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
 A professionally curated list of resources (papers, codes, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**.
-It is collected and organized based on the [first comprehensive SRID survey](https://arxiv.org/pdf/2401.15296.pdf).
+It is collected and organized based on the **first** comprehensive SRID survey.
 
 We will continuously update it with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request.
 
