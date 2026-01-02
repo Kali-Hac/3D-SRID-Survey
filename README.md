@@ -68,12 +68,13 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 
 ### **Benchmark Datasets**
-**Overview of SRID benchmark datasets. The number of skeletons in training is reported. “S” denotes single or egocentric view. \textit{RGB-estimated} 3D and 2D skeleton datasets are listed. $^{\star}$ denotes an interdisciplinary benchmark for gait and disease prediction.**
+**Overview of SRID benchmark datasets. The number of skeletons in training is reported. “S” denotes single or egocentric view. RGB-estimated 3D and 2D skeleton datasets are listed. $^{\star}$ denotes an interdisciplinary benchmark for gait and disease prediction.**
 
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Dataset_Overview.jpeg)
 
 
 ### **Studies by Different Categories**
+**Performance and characteristics comparison of existing hand-crafted, sequence-based, and graph-based methods on different benchmark datasets (BIWI (S/W), IAS-Lab (A/B), KS20). Representative gait recognition methods using skeleton data are also compared following the same person re-ID evaluation protocol. We report the parameter sizes (Million) and summarize their properties.**
 
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/method_overview.jpg)
 
@@ -216,7 +217,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 
 ###  **Leaderboard**
-**Performance (R$_{1}$) and characteristics comparison of existing hand-crafted, sequence-based, and graph-based methods on different benchmark datasets (BIWI (S/W), IAS-Lab (A/B), KS20). Representative gait recognition methods using skeleton data are also compared following the same person re-ID evaluation protocol.**
+**Performance comparison of existing hand-crafted, sequence-based, and graph-based methods on different benchmark datasets (BIWI (S/W), IAS-Lab (A/B), KS20). Representative gait recognition methods using skeleton data are also compared following the same person re-ID evaluation protocol.**
 
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Leaderboard.jpg)
 
