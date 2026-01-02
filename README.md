@@ -20,7 +20,7 @@ By Haocong Rao and Chunyan Miao.
 - [**Origin and Advancements of SRID Research**](#Origin-and-Advancements-of-SRID-Research)
 - [**Taxonomy of SRID Research**](#Taxonomy-of-SRID-Research)
 - [**Performance and Efficiency Comparison of State-of-the-Art Models**](#Performance-and-Efficiency-Comparison-of-State-of-the-Art-Models)
-- [**Characteristics Comparison of State-of-the-Art Models**](#Performance-and-Efficiency-Comparison-of-State-of-the-Art-Models)
+- [**Characteristics Comparison of State-of-the-Art Models**](#Characteristics-Comparison-of-State-of-the-Art-Models)
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Skeleton Modeling**](#Studies-by-Different-Skeleton-Modeling)
 	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
