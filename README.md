@@ -17,8 +17,8 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Overview of SRID Task**](#Overview-of-SRID-Task)
+- [**Origin and Advancements of SRID Research**](#Overview-of-Milestones-in-SRID)
 - [**Taxonomy of SRID Research**](#Taxonomy-of-SRID-Research)
-- [**Overview of Milestones in SRID**](#Overview-of-Milestones-in-SRID)
 - [**Performance and Efficiency Comparison of State-of-the-Art Models**](#Performance-and-Efficiency-Comparison-of-State-of-the-Art-Models)
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Categories**](#Studies-by-Different-Categories)
@@ -48,15 +48,16 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Overview_task.jpg)
 
 
+## Origin and Advancements of SRID Research
+**Overview of research origin and technical advancements of SRID within the person re-ID community (Zoom in and follow the timeline for the best view).**
+
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/SRID-Timeline.jpg)
+
+
 ## Taxonomy of SRID Research
 **Structure of this survey with the taxonomy of SRID research. Representative branches and SRID methods are listed.**
 
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/taxonomy_overview.jpg)
-
-## Overview of Milestones in SRID
-**Overview of research origin and technical advancements of SRID within the person re-ID community (Zoom in and follow the timeline for the best view).**
-
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/SRID-Timeline.jpg)
 
 
 ## Performance and Efficiency Comparison of State-of-the-Art Models
