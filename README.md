@@ -224,7 +224,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ### **Prospects**
 **Interdisciplinary application landscape of SRID across three primary domains: healthcare (green box), embodied AI (yellow box), and security (purple box). Please zoom in for better view.**
 
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/Prospects/Leaderboard.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Prospects.jpg)
 
 ## Citation
 If you found this paper/repository useful, please consider citing:
