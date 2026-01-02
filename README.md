@@ -5,10 +5,11 @@
 A professionally curated list of resources (papers, codes, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**.
 It is collected and organized based on the *first comprehensive SRID survey*:
 
-## Survey Paper
 [A Survey on 3D Skeleton Based Person Re-Identification: Taxonomy, Advances, Challenges, and Interdisciplinary Prospects](./)
 
 By Haocong Rao and Chunyan Miao.
+
+<br>
 
 We will continuously update it with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request.
 
