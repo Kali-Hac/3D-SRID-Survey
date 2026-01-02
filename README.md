@@ -7,12 +7,12 @@ It is collected and organized based on the [first comprehensive SRID survey](htt
 
 We will continuously update it with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request.
 
-For more papers and resources on Skeleton-Based Models (Action Recognition, Pose Estimation, etc.) from top-tier AI conferences and journals, kindly refer to [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
+For more papers and resources on Skeleton-Based Models (Action Recognition, Pose Estimation, etc.) from top-tier AI conferences and journals, kindly refer to [this repository](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
 ## Survey Paper
 [A Survey on 3D Skeleton Based Person Re-Identification: Taxonomy, Advances, Challenges, and Interdisciplinary Prospects](./)
 
-By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh-CN&oi=ao) and [Chunyan Miao](https://scholar.google.com.sg/citations?user=fmXGRJgAAAAJ&hl=zh-CN).
+By Haocong Rao and Chunyan Miao.
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
@@ -20,8 +20,9 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 - [**Origin and Advancements of SRID Research**](#Origin-and-Advancements-of-SRID-Research)
 - [**Taxonomy of SRID Research**](#Taxonomy-of-SRID-Research)
 - [**Performance and Efficiency Comparison of State-of-the-Art Models**](#Performance-and-Efficiency-Comparison-of-State-of-the-Art-Models)
+- [**Characteristics Comparison of State-of-the-Art Models**](#Performance-and-Efficiency-Comparison-of-State-of-the-Art-Models)
 - [**Benchmark Datasets**](#benchmark-datasets)
-- [**Studies by Different Categories**](#Studies-by-Different-Categories)
+- [**Studies by Different Skeleton Modeling**](#Studies-by-Different-Skeleton-Modeling)
 	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
 	- [**Sequence Based Modeling**](#Sequence-Based-Modeling)
 	- [**Graph Based Modeling**](#Graph-Based-Modeling)
@@ -40,7 +41,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 	- [**2014**](#2014)
 	- [**Before 2014**](#before-2014)
 - [**Leaderboard**](#leaderboard)
-
+- [**Prospects**](#prospects)
 
 ## Overview of SRID Task
 **Overview of 3D skeleton based person re-ID (SRID) task with hand-crafted, sequence-based or graph-based modeling to learn effective body and motion features for identity recognition.**
@@ -72,6 +73,11 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
+## Characteristics Comparison of State-of-the-Art Models
+**Property comparison of existing hand-crafted, sequence-based, and graph-based methods. Representative gait recognition methods using skeleton data are also compared. We report the parameter sizes (Million) and summarize their properties.**
+
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Method_property_comparison.jpg)
+
 
 ## **Benchmark Datasets**
 **Overview of SRID benchmark datasets. The number of skeletons in training is reported. “S” denotes single or egocentric view. RGB-estimated 3D and 2D skeleton datasets are listed. $^{\star}$ denotes an interdisciplinary benchmark for gait and disease prediction.**
@@ -79,10 +85,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Dataset_Overview.jpeg)
 
 
-## **Studies by Different Categories**
-**Property comparison of existing hand-crafted, sequence-based, and graph-based methods. Representative gait recognition methods using skeleton data are also compared. We report the parameter sizes (Million) and summarize their properties.**
-
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Method_property_comparison.jpg)
+## **Studies by Different Skeleton Modeling**
 
 ### Hand-Crafted Modeling
 
