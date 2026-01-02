@@ -17,6 +17,8 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ## Overview of SRID Task
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Overview_task.jpg)
 
+Overview of 3D skeleton based person re-ID (SRID) task with hand-crafted, sequence-based or graph-based modeling to learn effective body and motion features for identity recognition.
+
 ## Taxonomy of SRID Research
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/taxonomy_overview.jpg)
 
