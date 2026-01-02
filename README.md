@@ -269,6 +269,10 @@ If you found this paper/repository useful, please consider citing:
 }
 ```
 
+## License and Update
+
+3D-SRID-Survey is released under the MIT License. 
+
 We will continuously update it with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request. 
 
 For more papers and resources on Skeleton-Based Models (Action Recognition, Pose Estimation, etc.) from top-tier AI conferences and journals, kindly refer to [this repository](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
