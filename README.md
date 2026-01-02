@@ -200,6 +200,8 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 ### **2017**
 - [Human identification from freestyle walks using posture-based gait feature](https://ieeexplore.ieee.org/abstract/document/8007293) (_IEEE Transactions on Information Forensics and Security 2017_)
+- 
+- [Analysis of skeletal shape trajectories for person re-identifications](https://link.springer.com/chapter/10.1007/978-3-319-70353-4_12) (_International Conference on Advanced Concepts for Intelligent Vision Systems 2017_)
 
 - [Context-aware person re-identification in the wild via fusion of gait and anthropometric features](https://vislab.isr.tecnico.ulisboa.pt/wp-content/uploads/2017/05/anambiar_BWild2017.pdf) (_International Conference on Automatic Face \& Gesture Recognition 2017_)
 
