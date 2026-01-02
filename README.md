@@ -88,6 +88,18 @@ By Haocong Rao and Chunyan Miao.
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Dataset_Overview.jpeg)
 
 
+
+##  **Leaderboard**
+**Performance comparison of existing hand-crafted, sequence-based, and graph-based methods on different benchmark datasets (BIWI (S/W), IAS-Lab (A/B), KS20). Representative gait recognition methods using skeleton data are also compared following the same person re-ID evaluation protocol.**
+
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Leaderboard.jpg)
+
+## **Prospects**
+**Interdisciplinary application landscape of SRID across three primary domains: healthcare (green box), embodied AI (yellow box), and security (purple box). Please zoom in for better view.**
+
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Prospects.jpg)
+
+
 ## **Studies by Different Skeleton Modeling**
 
 ### Hand-Crafted Modeling
@@ -251,16 +263,6 @@ By Haocong Rao and Chunyan Miao.
 ### Before 2014
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (_ECCV Workshop 2012_)
 
-
-##  **Leaderboard**
-**Performance comparison of existing hand-crafted, sequence-based, and graph-based methods on different benchmark datasets (BIWI (S/W), IAS-Lab (A/B), KS20). Representative gait recognition methods using skeleton data are also compared following the same person re-ID evaluation protocol.**
-
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Leaderboard.jpg)
-
-## **Prospects**
-**Interdisciplinary application landscape of SRID across three primary domains: healthcare (green box), embodied AI (yellow box), and security (purple box). Please zoom in for better view.**
-
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Prospects.jpg)
 
 ## Citation
 If you found this paper/repository useful, please consider citing:
