@@ -19,7 +19,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 - [**Overview of SRID Task**](#Overview-of-SRID-Task)
 - [**Taxonomy of SRID Research**](#Taxonomy-of-SRID-Research)
 - [**Overview of Milestones in SRID**](#Overview-of-Milestones-in-SRID)
-- [**Performance & Efficiency Comparison of State-of-the-Art Models**](#Performance-\&-Efficiency-Comparison-of-State-of-the-Art-Models)
+- [**Performance & Efficiency Comparison of State-of-the-Art Models**](#Performance-Efficiency-Comparison-of-State-of-the-Art-Models)
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Categories**](#Studies-by-Different-Categories)
 	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
