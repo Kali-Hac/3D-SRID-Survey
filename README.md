@@ -58,7 +58,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 	- [**2015**](#2015)
 	- [**2014**](#2014)
 	- [**Before 2014**](#before-2014)
-- [**Leaderboards**](#leaderboards)
+- [**Leaderboard**](#leaderboard)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -222,7 +222,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Leaderboard.jpg)
 
 ### **Prospects**
-**Interdisciplinary application landscape of SRID across three primary domains: healthcare ({green box}), embodied AI ({yellow box}), and security ({purple box}). Please zoom in for better view.**
+**Interdisciplinary application landscape of SRID across three primary domains: healthcare (green box), embodied AI (yellow box), and security (purple box). Please zoom in for better view.**
 
 ![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/Prospects/Leaderboard.jpg)
 
