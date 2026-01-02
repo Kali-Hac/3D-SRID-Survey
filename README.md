@@ -115,6 +115,17 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 
 ### Sequence-Based Modeling
+- [Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification](https://arxiv.org/pdf/2412.09044) (_AAAI 2025_) [[Github](https://github.com/Kali-Hac/MoCos)] ![](https://img.shields.io/github/stars/Kali-Hac/MoCos.svg?style=social)
+
+- [Hierarchical Skeleton Meta-prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-identification](https://arxiv.org/pdf/2307.12917)  (_International Journal of Computer Vision 2024_) [[Github](https://github.com/Kali-Hac/Hi-MPC)] ![](https://img.shields.io/github/stars/Kali-Hac/Hi-MPC.svg?style=social)
+
+- [Spatial transformer network on skeleton-based gait recognition](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13244) (_Expert Systems 2023_)
+
+- [Human Identification System Using 3D Skeleton-Based Gait Features and LSTM Model](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002807) (_Journal of Visual Communication and Image Representation 2022_)
+
+- [SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (_IJCAI 2022_) [[Github](https://github.com/Kali-Hac/SimMC)] ![](https://img.shields.io/github/stars/Kali-Hac/SimMC.svg?style=social)
+  
+- [A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification](https://arxiv.org/abs/2009.03671) (_IEEE Transactions on Pattern Analysis and Machine Intelligence 2021_) [[Github](https://github.com/Kali-Hac/Locality-Awareness-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/Locality-Awareness-SGE.svg?style=social)
 
 - [Person identification by walking gesture using skeleton sequences](https://link.springer.com/chapter/10.1007/978-3-030-40605-9_18) (_Advanced Concepts for Intelligent Vision Systems 2020_)
 
@@ -124,25 +135,23 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 - [Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification](https://doi.org/10.24963/ijcai.2020/125) (_IJCAI 2020_) [[Github](https://github.com/Kali-Hac/SGE-LA)] ![](https://img.shields.io/github/stars/Kali-Hac/SGE-LA.svg?style=social)
 
-- [A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification](https://arxiv.org/abs/2009.03671) (_IEEE Transactions on Pattern Analysis and Machine Intelligence 2021_) [[Github](https://github.com/Kali-Hac/Locality-Awareness-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/Locality-Awareness-SGE.svg?style=social)
-
-- [Human Identification System Using 3D Skeleton-Based Gait Features and LSTM Model](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002807) (_Journal of Visual Communication and Image Representation 2022_)
-
-- [SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (_IJCAI 2022_) [[Github](https://github.com/Kali-Hac/SimMC)] ![](https://img.shields.io/github/stars/Kali-Hac/SimMC.svg?style=social)
-  
-- [Hierarchical Skeleton Meta-prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-identification](https://arxiv.org/pdf/2307.12917)  (_International Journal of Computer Vision 2024_) [[Github](https://github.com/Kali-Hac/Hi-MPC)] ![](https://img.shields.io/github/stars/Kali-Hac/Hi-MPC.svg?style=social)
 
 ### Graph-Based Modeling
-
-- [SM-SGE: A Self-Supervised Multi-Scale Skeleton Graph Encoding Framework for Person Re-Identification](https://doi.org/10.1145/3474085.3475330) (_ACM MM 2021_) [[Github](https://github.com/Kali-Hac/SM-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/SM-SGE.svg?style=social)
-
-- [Multi-Level Graph Encoding with Structural-Collaborative Relation Learning for Skeleton-Based Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (_IJCAI 2021_) [[Github](https://github.com/Kali-Hac/MG-SCR)] ![](https://img.shields.io/github/stars/Kali-Hac/MG-SCR.svg?style=social)
-
-- [Skeleton Prototype Contrastive Learning with Multi-level Graph Relation Modeling for Unsupervised Person Re-identification](https://arxiv.org/pdf/2208.11814) (_Arxiv (Preprint) 2022_) [[Github](https://github.com/Kali-Hac/SPC-MGR)] ![](https://img.shields.io/github/stars/Kali-Hac/SPC-MGR.svg?style=social)
+- [SkeletonGait: Gait recognition using skeleton maps](https://ojs.aaai.org/index.php/AAAI/article/download/27933/27887) (_AAAI 2024_) [[Github](https://github.com/ShiqiYu/OpenGait)] ![](https://img.shields.io/github/stars/ShiqiYu/OpenGai.svg?style=social)
 
 - [TranSG: Transformer-based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-identification](http://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf) (_CVPR 2023_) [[Github](https://github.com/Kali-Hac/TranSG)] ![](https://img.shields.io/github/stars/Kali-Hac/TranSG.svg?style=social)
 
-- [Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification](https://arxiv.org/pdf/2412.09044) (_AAAI 2025_) [[Github](https://github.com/Kali-Hac/MoCos)] ![](https://img.shields.io/github/stars/Kali-Hac/MoCos.svg?style=social)
+- [GPGait: Generalized pose-based gait recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_GPGait_Generalized_Pose-based_Gait_Recognition_ICCV_2023_paper.pdf) (_ICCV 2023_) [[Github](https://github.com/BNU-IVC/FastPoseGait)] ![](https://img.shields.io/github/stars/BNU-IVC/FastPoseGait.svg?style=social)
+
+- [Skeleton Prototype Contrastive Learning with Multi-level Graph Relation Modeling for Unsupervised Person Re-identification](https://arxiv.org/pdf/2208.11814) (_Arxiv (Preprint) 2022_) [[Github](https://github.com/Kali-Hac/SPC-MGR)] ![](https://img.shields.io/github/stars/Kali-Hac/SPC-MGR.svg?style=social)
+
+- [SM-SGE: A Self-Supervised Multi-Scale Skeleton Graph Encoding Framework for Person Re-Identification](https://doi.org/10.1145/3474085.3475330) (_ACM MM 2021_) [[Github](https://github.com/Kali-Hac/SM-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/SM-SGE.svg?style=social)
+
+- [Channel-wise topology refinement graph convolution for skeleton-based action recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Channel-Wise_Topology_Refinement_Graph_Convolution_for_Skeleton-Based_Action_Recognition_ICCV_2021_paper.pdf) (_ICCV 2021_) [[Github](https://github.com/Uason-Chen/CTR-GCN)] ![](https://img.shields.io/github/stars/Uason-Chen/CTR-GCN.svg?style=social)
+
+- [Multi-Level Graph Encoding with Structural-Collaborative Relation Learning for Skeleton-Based Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (_IJCAI 2021_) [[Github](https://github.com/Kali-Hac/MG-SCR)] ![](https://img.shields.io/github/stars/Kali-Hac/MG-SCR.svg?style=social)
+
+- [Spatial temporal graph convolutional networks for skeleton-based action recognition](https://ojs.aaai.org/index.php/AAAI/article/download/12328/12187) (_AAAI 2018_)
 
 
 ## Studies by Different Years
@@ -152,7 +161,13 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ### **2024**
 - [Hierarchical Skeleton Meta-prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-identification](https://arxiv.org/pdf/2307.12917)  (_International Journal of Computer Vision 2024_) [[Github](https://github.com/Kali-Hac/Hi-MPC)] ![](https://img.shields.io/github/stars/Kali-Hac/Hi-MPC.svg?style=social)
 
+- [SkeletonGait: Gait recognition using skeleton maps](https://ojs.aaai.org/index.php/AAAI/article/download/27933/27887) (_AAAI 2024_) [[Github](https://github.com/ShiqiYu/OpenGait)] ![](https://img.shields.io/github/stars/ShiqiYu/OpenGai.svg?style=social)
+
 ### **2023**
+- [GPGait: Generalized pose-based gait recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_GPGait_Generalized_Pose-based_Gait_Recognition_ICCV_2023_paper.pdf) (_ICCV 2023_) [[Github](https://github.com/BNU-IVC/FastPoseGait)] ![](https://img.shields.io/github/stars/BNU-IVC/FastPoseGait.svg?style=social)
+
+- [Spatial transformer network on skeleton-based gait recognition](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13244) (_Expert Systems 2023_)
+
 - [TranSG: Transformer-based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-identification](http://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf) (_CVPR 2023_) [[Github](https://github.com/Kali-Hac/TranSG)] ![](https://img.shields.io/github/stars/Kali-Hac/TranSG.svg?style=social)
 
 
@@ -166,6 +181,8 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 - [Human Identification System Using 3D Skeleton-Based Gait Features and LSTM Model](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002807) (_Journal of Visual Communication and Image Representation 2022_)
 
 ### **2021**
+- [Channel-wise topology refinement graph convolution for skeleton-based action recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Channel-Wise_Topology_Refinement_Graph_Convolution_for_Skeleton-Based_Action_Recognition_ICCV_2021_paper.pdf) (_ICCV 2021_) [[Github](https://github.com/Uason-Chen/CTR-GCN)] ![](https://img.shields.io/github/stars/Uason-Chen/CTR-GCN.svg?style=social)
+
 - [SM-SGE: A Self-Supervised Multi-Scale Skeleton Graph Encoding Framework for Person Re-Identification](https://doi.org/10.1145/3474085.3475330) (_ACM MM 2021_) [[Github](https://github.com/Kali-Hac/SM-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/SM-SGE.svg?style=social)
 
 - [Multi-Level Graph Encoding with Structural-Collaborative Relation Learning for Skeleton-Based Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (_IJCAI 2021_) [[Github](https://github.com/Kali-Hac/MG-SCR)] ![](https://img.shields.io/github/stars/Kali-Hac/MG-SCR.svg?style=social)
@@ -197,6 +214,9 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 
 ### **2018**
 - [Cross-context analysis for long-term view-point invariant person re-identification via soft-biometrics using depth sensor](https://www.scitepress.org/papers/2018/66206/66206.pdf) (_VISIGRAPP 2018_)
+
+- [Spatial temporal graph convolutional networks for skeleton-based action recognition](https://ojs.aaai.org/index.php/AAAI/article/download/12328/12187) (_AAAI 2018_)
+
 
 ### **2017**
 - [Human identification from freestyle walks using posture-based gait feature](https://ieeexplore.ieee.org/abstract/document/8007293) (_IEEE Transactions on Information Forensics and Security 2017_)
