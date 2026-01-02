@@ -28,8 +28,8 @@ By Haocong Rao and Chunyan Miao.
   
 - [**Studies by Different Skeleton Modeling**](#Studies-by-Different-Skeleton-Modeling)
 	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
-	- [**Sequence Based Modeling**](#Sequence-Based-Modeling)
-	- [**Graph Based Modeling**](#Graph-Based-Modeling)
+	- [**Sequence-Based Modeling**](#Sequence-Based-Modeling)
+	- [**Graph-Based Modeling**](#Graph-Based-Modeling)
 - [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2025**](#2025)
 	- [**2024**](#2024)
