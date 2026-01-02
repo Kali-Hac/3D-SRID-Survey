@@ -19,9 +19,13 @@ By Haocong Rao and Chunyan Miao.
 - [**Overview of SRID Task**](#Overview-of-SRID-Task)
 - [**Origin and Advancements of SRID Research**](#Origin-and-Advancements-of-SRID-Research)
 - [**Taxonomy of SRID Research**](#Taxonomy-of-SRID-Research)
+  
 - [**Performance and Efficiency Comparison of State-of-the-Art Models**](#Performance-and-Efficiency-Comparison-of-State-of-the-Art-Models)
 - [**Characteristics Comparison of State-of-the-Art Models**](#Characteristics-Comparison-of-State-of-the-Art-Models)
 - [**Benchmark Datasets**](#benchmark-datasets)
+- [**Leaderboard**](#leaderboard)
+- [**Prospects**](#prospects)
+  
 - [**Studies by Different Skeleton Modeling**](#Studies-by-Different-Skeleton-Modeling)
 	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
 	- [**Sequence Based Modeling**](#Sequence-Based-Modeling)
@@ -40,8 +44,7 @@ By Haocong Rao and Chunyan Miao.
 	- [**2015**](#2015)
 	- [**2014**](#2014)
 	- [**Before 2014**](#before-2014)
-- [**Leaderboard**](#leaderboard)
-- [**Prospects**](#prospects)
+
 
 ## Overview of SRID Task
 **Overview of 3D skeleton based person re-ID (SRID) task with hand-crafted, sequence-based or graph-based modeling to learn effective body and motion features for identity recognition.**
