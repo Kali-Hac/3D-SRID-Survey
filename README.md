@@ -264,7 +264,7 @@ If you found this paper/repository useful, please consider citing:
 @article{rao2026survey,
   title={A Survey on 3D Skeleton Based Person Re-Identification: Taxonomy, Advances, Challenges, and Interdisciplinary Prospects},
   author={Rao, Haocong and Miao, Chunyan},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2401.15296},
   year={2026}
 }
 ```
