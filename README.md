@@ -49,13 +49,13 @@ By Haocong Rao and Chunyan Miao.
 ## Origin and Advancements of SRID Research
 **Overview of research origin and technical advancements of SRID within the person re-ID community (Zoom in and follow the timeline for the best view).**
 
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/SRID-Timelin.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/SRID-Timeline.jpg)
 
 
 ## Taxonomy of SRID Research
 **Structure of this survey with the taxonomy of SRID research. Representative branches and SRID methods are listed.**
 
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/taxonomy_overvie.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/taxonomy_overview.jpg)
 
 
 ## Performance and Efficiency Comparison of State-of-the-Art Models
@@ -73,7 +73,7 @@ By Haocong Rao and Chunyan Miao.
 ## Characteristics Comparison of State-of-the-Art Models
 **Property comparison of existing hand-crafted, sequence-based, and graph-based methods. Representative gait recognition methods using skeleton data are also compared. We report the parameter sizes (Million) and summarize their properties.**
 
-![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Method_property_compariso.jpg)
+![image](https://github.com/Kali-Hac/3D-SRID-Survey/blob/main/overview/Method_property_comparison.jpg)
 
 
 ## **Benchmark Datasets**
